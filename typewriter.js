@@ -6,3 +6,6 @@ for (const char of sentence) {
     }, delay)
     delay += 100;
 }
+setTimeout(() => {
+    console.log();
+}, delay)
